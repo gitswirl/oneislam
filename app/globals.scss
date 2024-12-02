@@ -1,0 +1,18 @@
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: "Outfit", sans-serif;
+     text-transform: capitalize;
+     // transition: 0.3s ease all;
+ }
+ 
+ ::-webkit-scrollbar {
+     width: 6px;
+ }
+ 
+ ::-webkit-scrollbar-thumb {
+     background-color: rgba(76, 76, 76, 0.733);
+     border-radius: 50px;
+     cursor: grab;
+ }
